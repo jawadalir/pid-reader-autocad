@@ -1,14 +1,9 @@
-# === Core Dependencies ===
+
 streamlit==1.39.0
 openai==1.51.0
-
-# === Data Handling ===
 pandas==2.2.3
 numpy==1.26.4
-
-# === Utility Libraries ===
 python-dotenv==1.0.1
 tqdm==4.66.5
-
-# === Optional (for advanced matching / similarity / debugging) ===
 regex==2024.9.11
+
