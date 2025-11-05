@@ -1,0 +1,8 @@
+pandas
+streamlit
+openai
+python-dotenv
+sqlite3
+numpy
+json
+difflib
